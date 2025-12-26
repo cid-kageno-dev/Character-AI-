@@ -1,0 +1,7 @@
+{
+  "name": "Character AI",
+  "description": "A dynamic chatbot application that allows you to converse with distinct AI personalities powered by Gemini, featuring customizable personas and a sleek, modern UI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
